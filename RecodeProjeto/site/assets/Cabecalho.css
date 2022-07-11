@@ -1,0 +1,34 @@
+body {
+    background: #eaeaea;
+
+
+}
+
+header {
+    background: #5b5b5b;
+    width: 100%;
+ 
+}
+
+#botao{
+
+   
+    position: absolute;
+    top: 20px;
+    font-size: 15px;
+    display: flex;
+    left: 50px;
+   
+    
+}
+.icon{
+
+    position: relative;
+    
+}
+
+.textoFinal{
+    color: rgb(5, 5, 52);
+    margin-right: 35px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

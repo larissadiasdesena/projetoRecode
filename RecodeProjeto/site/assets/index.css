@@ -1,0 +1,14 @@
+#h1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    color: rgb(5, 5, 52);
+    padding-top: 28px ;
+    padding-bottom: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.p{
+    
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
